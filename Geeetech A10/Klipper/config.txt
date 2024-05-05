@@ -53,7 +53,7 @@ max_extrude_only_accel:600
 
 # The remaining variables describe the extruder heater.
 heater_pin: PB4
-sensor_type: NTC 100K beta 3950
+sensor_type: Generic 3950
 sensor_pin: PK3
 pullup_resistor: 4700
 control: pid
